@@ -1,0 +1,9 @@
+# Ignorar el directorio .Rproj.user/
+.Rproj.user/
+
+# Ignorar el archivo .DS_Store
+*.DS_Store
+
+# Ignorar todos los archivos con la extensión .R
+*.RData
+*.Rhistory
