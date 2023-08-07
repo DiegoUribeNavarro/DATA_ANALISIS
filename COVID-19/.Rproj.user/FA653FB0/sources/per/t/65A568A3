@@ -1,0 +1,30 @@
+{
+    "id": "65A568A3",
+    "path": "~/Programación/Rstudio/COVID-19/Datos_covid.R",
+    "project_path": "Datos_covid.R",
+    "type": "r_source",
+    "hash": "1989645172",
+    "contents": "",
+    "dirty": false,
+    "created": 1690600178054.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "184,6",
+        "scrollLine": "171",
+        "docOutlineVisible": "0",
+        "softWrapLines": "true",
+        "useRainbowFencedDivs": "false"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1690780088,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1690780088287,
+    "read_only": false,
+    "read_only_alternatives": []
+}
